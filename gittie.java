@@ -17,6 +17,9 @@ public class gittie {
         System.out.println("\n\nTudod mi jó még?!");
         System.out.println("\n\n\n A faszom!wühühühü");
     }
+    public static void shout(){
+        System.out.println("HALLLLLOD?????");
+    }
     public static void main(String[] args) {
         introduce();   
         bye();
