@@ -1,6 +1,6 @@
 public class gittie {
     public static void introduce() {
-        System.out.println("Hello, I'm Gittie!");
+        System.out.println("Hello, I'm Gatya!");
     }
     public static void add(int a, int b) {
         int result;
