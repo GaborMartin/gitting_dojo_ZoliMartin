@@ -1,7 +1,7 @@
 public class gittie {
     public static void introduce() {
         System.out.println("Hello, I'm Gittie!Have good day!");
-        System.out.println("Hello, I'm Gatya!");
+        System.out.println("Hello, I'm Gatya!And this is Jackass");
     }
     public static void add(int a, int b) {
         int result;
