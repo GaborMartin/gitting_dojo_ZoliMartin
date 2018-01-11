@@ -1,6 +1,6 @@
 public class gittie {
     public static void introduce() {
-        System.out.println("Hello, I'm Gittie!");
+        System.out.println("Hello, I'm Gittie!Have good day!");
     }
     public static void joke() {
         System.out.println("\n\nTudod mi jó még?!");
