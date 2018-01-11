@@ -1,9 +1,10 @@
 public class gittie {
-    public static void Main(String[] args) {
-
-        public void introduce() {
-            System.out.println("Hello, I'm Gittie!")
+    public static void introduce() {
+        System.out.println("Hello, I'm Gittie!");
+    }
+    public static void main(String[] args) {
+        introduce();
         }
     }
+            
     
-}
